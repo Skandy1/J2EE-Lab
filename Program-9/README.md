@@ -11,7 +11,8 @@ Using JDBC concepts create a database and retrieve info base on particular queri
 
 ### How to execute?
 
-1. Firstly, download the JDBC connector from this [link ](https://dev.mysql.com/downloads/connector/j/) selecting **Platform Independent** as your option from the drop down. Create a new **java application** in NetBeans and import the jar file. 
+1. Firstly, download the JDBC connector from this [link ](https://dev.mysql.com/downloads/connector/j/) selecting **Platform Independent** as your option from the drop down. Create a new **java application** in NetBeans and import the jar file.
+
    ![JDBC](images/9.1.gif)
 
 2. Next, open MySQL console and create a database **test** and a table **student** with name, usn and result as columns.
